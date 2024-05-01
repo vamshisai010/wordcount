@@ -9,9 +9,9 @@
  
 ![Screenshot 2024-05-01 201611](https://github.com/vamshisai010/wordcount/assets/137802468/2b2a79b4-4161-4340-8098-a6dce48b305c)
 
- Code to check the answers and run the execution and gives the overall score of quizgame.
+ Write the code as shown in above screenshot and run it.
  
-![Screenshot 2024-04-26 232224](https://github.com/vamshisai010/quizgame/assets/137802468/49a99d0c-a045-4030-8a8f-1106c499ac74)
+![image](https://github.com/vamshisai010/wordcount/assets/137802468/68ce4e60-bec5-427e-a458-76c61bdf61d5)
 
  Output of the code. checks the every answer and gives the score by the no.of attempts by each questions.
  
