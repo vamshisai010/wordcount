@@ -19,4 +19,4 @@
 
  Here the output will display that wordcount in the paragraph or sentence.
  
-![Screenshot 2024-04-26 232419](https://github.com/vamshisai010/quizgame/assets/137802468/e743d1a5-238d-40c4-8af5-1e43444e1b74)
+![image](https://github.com/vamshisai010/wordcount/assets/137802468/c81c4c8e-1be4-4620-8721-d1eaac8cc764)
