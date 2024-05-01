@@ -15,7 +15,7 @@
 
  Enter the sentence or paragraph and click the enter button to exit the paragraph.
  
-![Screenshot 2024-04-26 232303](https://github.com/vamshisai010/quizgame/assets/137802468/4a55c115-3765-46e6-8a35-9c783e87e196)
+![image](https://github.com/vamshisai010/wordcount/assets/137802468/7dbb3e11-c369-4ffa-9870-04ddd1ea37f3)
 
  Here the output will display that wordcount in the paragraph or sentence.
  
