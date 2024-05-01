@@ -5,9 +5,9 @@
  
 # Screenshots
 
- first create a funtion to count the words in a sentence.
+ First create a funtion to count the words in a sentence.
  
-
+![Screenshot 2024-05-01 201611](https://github.com/vamshisai010/wordcount/assets/137802468/2b2a79b4-4161-4340-8098-a6dce48b305c)
 
  Code to check the answers and run the execution and gives the overall score of quizgame.
  
