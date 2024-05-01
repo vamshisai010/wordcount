@@ -13,10 +13,10 @@
  
 ![image](https://github.com/vamshisai010/wordcount/assets/137802468/68ce4e60-bec5-427e-a458-76c61bdf61d5)
 
- Output of the code. checks the every answer and gives the score by the no.of attempts by each questions.
+ Enter the sentence or paragraph and click the enter button to exit the paragraph.
  
 ![Screenshot 2024-04-26 232303](https://github.com/vamshisai010/quizgame/assets/137802468/4a55c115-3765-46e6-8a35-9c783e87e196)
 
- Gives the overall score of the quizgame and shows the no.of wrong answers and correct answers in the game.
+ Here the output will display that wordcount in the paragraph or sentence.
  
 ![Screenshot 2024-04-26 232419](https://github.com/vamshisai010/quizgame/assets/137802468/e743d1a5-238d-40c4-8af5-1e43444e1b74)
